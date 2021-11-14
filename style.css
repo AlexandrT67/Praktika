@@ -1,0 +1,25 @@
+div {
+    margin: 5px;
+    border: 1px solid #9e3737;
+}
+.main-box{ 
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+.centr{ 
+    display:flex;
+    flex-direction: column;
+}
+.left-centr{
+    display:flex;
+    flex-direction: column
+}
+.rayt-centr{
+    display:flex;
+    flex-direction: column
+}
